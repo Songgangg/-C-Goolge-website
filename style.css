@@ -1,0 +1,130 @@
+.navbar{
+    margin: 20px;
+}
+.navbar-right{
+    float:right;
+}
+.nav-item{
+    font-size: 14px;
+    font-family: arial,sans-serif;
+    text-decoration: none;
+    color: #000000DE;
+    margin-right: 15px;
+}
+.nav-item:hover{
+    text-decoration: underline;
+}
+
+.login{
+    background: #1a73e8;
+    border: 1px solid transparent; 
+    font-family: Google Sans,Roboto,Helvetica,Arial,sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    color: #fff;
+    letter-spacing: .25px;
+    line-height: 16px;
+    margin-left: 10px;
+    margin-right: 8px;
+    min-width: 96px;
+    padding: 9px 23px;
+    text-align: center;
+    vertical-align: middle;
+    border-radius: 4px;
+    box-sizing: border-box;
+
+}
+.login:hover{
+    background-color: #1c6ef3e8;
+    text-decoration: none;
+}
+
+
+.main{
+    margin-top: 100px;
+    text-align: center;
+}
+
+.input-box{
+    width: 450px;
+    height: 47px;
+    border-radius: 24px;
+    border: 1px solid #dfe1e5;
+    padding-left: 40px;
+    padding-right: 100px;
+}
+.search-icon{
+    position: relative;
+    left: 40px;
+    color: #9aa0a6;
+}
+.keyboard-icon{
+    position: relative;
+    right: 100px;
+    color: #9aa0a6;
+}
+.mic-icon{
+    position: relative;
+    right: 90px;
+    color: #9aa0a6;
+}
+.camera-icon{
+    position: relative;
+    right: 80px;
+    color: #9aa0a6;
+}
+.button-area{
+    padding-top: 18px;
+}
+.button-style{
+    background-color: #f8f9fa;
+    border: 1px solid #f8f9fa;
+    border-radius: 4px;
+    color: #3c4043;
+    font-family: Apple SD Gothic Neo,arial,sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+}
+.button-style:hover{
+    box-shadow: 0 1px 1px rgba(0,0,0,.1);
+    background-color: #f8f9fa;
+    border: 1px solid #dadce0;
+    color: #202124;
+}
+.footer{
+    position: absolute;
+    bottom: 0px;
+    background: #f2f2f2;
+    width: 100%;
+}
+.footer-first{
+    padding: 15px 30px;
+    border-bottom: 1px solid #dadce0;
+    font-size: 15px;
+    color: #70757a;
+}
+.footer-second{
+    padding: 15px 30px;
+    font-size: 15px;
+    color: #70757a;
+    
+}
+
+.span-second{ 
+    float: right;
+}
+.span-item{
+    text-decoration: none;
+    color: #70757a;
+    margin-right: 15px;
+}
+.span-item:hover{
+    text-decoration: underline;
+}
